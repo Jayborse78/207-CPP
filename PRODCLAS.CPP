@@ -1,3 +1,4 @@
+//program demonstate product class
 #include<iostream.h>
 #include<conio.h>
 class product
