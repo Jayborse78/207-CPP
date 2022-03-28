@@ -1,4 +1,4 @@
-//program demonstate product class
+//program demonstate product class using array of object
 #include<iostream.h>
 #include<conio.h>
 class product
