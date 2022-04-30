@@ -1,4 +1,4 @@
-//program demonstrate operator overloading using friend function
+//program demonstrate operator overloading without using friend function
 #include<iostream.h>
 #include<conio.h>
 class base
